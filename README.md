@@ -1,4 +1,7 @@
-# Stable Diffusion
+# Stable Diffusion optimized Animations (wip)
+
+This is built upon previous work by [deforum](https://github.com/deforum) and [basujindal](https://github.com/basujindal).
+
 *Stable Diffusion was made possible thanks to a collaboration with [Stability AI](https://stability.ai/) and [Runway](https://runwayml.com/) and builds upon our previous work:*
 
 [**High-Resolution Image Synthesis with Latent Diffusion Models**](https://ommer-lab.com/research/latent-diffusion-models/)<br/>
