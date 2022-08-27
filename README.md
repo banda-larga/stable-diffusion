@@ -1,6 +1,6 @@
 # Stable Diffusion optimized Animations (wip)
 
-This is built upon previous work by [deforum](https://github.com/deforum) and [basujindal](https://github.com/basujindal).
+This is built upon previous work by [deforum](https://github.com/deforum) and [basujindal](https://github.com/basujindal) and [crowsonkb](https://github.com/crowsonkb).
 
 *Stable Diffusion was made possible thanks to a collaboration with [Stability AI](https://stability.ai/) and [Runway](https://runwayml.com/) and builds upon our previous work:*
 
